@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.adriyo.daggerpractice.R;
-import com.adriyo.daggerpractice.network.PeopleData;
+import com.adriyo.daggerpractice.data.PeopleData;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 package com.adriyo.daggerpractice.ui;
 
 import com.adriyo.daggerpractice.BaseApplication;
-import com.adriyo.daggerpractice.network.PeopleData;
+import com.adriyo.daggerpractice.data.PeopleData;
 import com.adriyo.daggerpractice.network.Repository;
 
 import java.util.HashMap;

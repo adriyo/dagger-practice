@@ -3,8 +3,8 @@ package com.adriyo.daggerpractice;
 import android.app.Application;
 
 import com.adriyo.daggerpractice.data.DaggerDataComponent;
-import com.adriyo.daggerpractice.data.DataComponent;
-import com.adriyo.daggerpractice.data.DataModule;
+import com.adriyo.daggerpractice.di.DataComponent;
+import com.adriyo.daggerpractice.di.DataModule;
 
 /**
  * Created by adriyo on 13/06/17.

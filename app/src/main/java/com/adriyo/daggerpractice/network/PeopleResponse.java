@@ -1,6 +1,7 @@
 
 package com.adriyo.daggerpractice.network;
 
+import com.adriyo.daggerpractice.data.PeopleData;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;

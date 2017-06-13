@@ -1,5 +1,5 @@
 
-package com.adriyo.daggerpractice.network;
+package com.adriyo.daggerpractice.data;
 
 import com.google.gson.annotations.SerializedName;
 

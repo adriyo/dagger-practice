@@ -1,4 +1,4 @@
-package com.adriyo.daggerpractice.data;
+package com.adriyo.daggerpractice.di;
 
 import android.app.Application;
 

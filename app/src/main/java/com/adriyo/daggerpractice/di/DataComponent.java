@@ -1,4 +1,4 @@
-package com.adriyo.daggerpractice.data;
+package com.adriyo.daggerpractice.di;
 
 import com.adriyo.daggerpractice.BaseApplication;
 import com.adriyo.daggerpractice.network.Repository;
